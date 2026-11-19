@@ -1,6 +1,6 @@
 {
-  "name": "FightMatch Pro Offline",
-  "short_name": "FightMatch",
+  "name": "MatchMaker Pro Offline",
+  "short_name": "MatchMaker",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
